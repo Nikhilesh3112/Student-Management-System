@@ -11,7 +11,6 @@ A simple and intuitive web application for managing student records. This applic
 - **Search & Filter**: Quickly find students by name, course, or year.
 - **Clean Interface**: Simple and intuitive user interface for easy navigation.
 - **Responsive Design**: Works smoothly on both desktop and mobile devices.
-- **Dark Mode**: Toggle between light and dark themes for comfortable viewing.
 
 ## 🚀 Getting Started
 
@@ -102,4 +101,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Built with ❤️ for educational purposes
