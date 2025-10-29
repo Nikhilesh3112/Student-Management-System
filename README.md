@@ -83,11 +83,3 @@ student-management-system/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Bootstrap Icons](https://icons.getbootstrap.com/) for the clean icon set
-- [Spring Initializr](https://start.spring.io/) for project bootstrapping
-- All contributors who have helped shape this project
-
----
-
